@@ -1,4 +1,4 @@
 .venv/
 __pycache__/
 .env
-images/
+for_v2_gpt.txt
